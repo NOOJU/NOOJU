@@ -16,34 +16,29 @@
 ☁️ Cloud Infrastructure & Engineering<br/>
 🚉 Platform Engineering<br/>
 🔧 DevOps & Automation<br/>
-🤖 AI & MLOps<br/>
 
-## 🛠️ Tech Stack
+<div align=center> 
 
-### ☁️ Cloud Platforms  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-### 🧱 OS & Networking  
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 ![Network](https://img.shields.io/badge/network-000000?style=for-the-badge&logo=network&logoColor=white)
-
-### 🐳 Containers & Orchestration  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-### ⚙️ Infrastructure as Code  
+
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 💻 Languages & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 <br/>
 
@@ -70,31 +65,39 @@
 
 ### 🏢 Careers
 
-| Company | Job Role | Desc. | Period |
-| ------------ | ------------- | ------------- | ------------- | 
-| | | | |
+| Company          | Job Role                               | Description                                                          | Period              |
+| ---------------- | -------------------------------------- | -------------------------------------------------------------------- | ------------------- |
+| iCloud Co., Ltd. | Cloud Infra Engineer (Intern) | Assisted in designing and automating <br/> cloud infrastructure operations | 2024.03–2024.06 |
+
 
 <br/>
 
 ### 📚 What I do/did
 
-| Club | Club Desc. | Role | Role Desc. | Period |
-| ------------ | ------------- | ------------- | ------------- | ------------- |
-| | | | | |
+| Club                                | Club Desc.                          | Role               | Role Desc.                                                  | Period             |
+| ----------------------------------- | ----------------------------------- | ------------------ | ----------------------------------------------------------- | ------------------ |
+| **KOSA Cloud Engineering Bootcamp** | Bootcamp                            | Cloud Member       | Cloud Infrastructure & Automation                           | 2024.12 \~ 2025.02 |
+| **Sahmyook Univ. IACF**             | Industry-Academic Project           | Project Leader     | MSP Ops Automation Web Dev (FastAPI, React, GitHub Actions) | 2024.08 \~ 2024.11 |
+| **OSSCA**                           | Open Source SW Contribution Academy | OpenStack - Mentee | OpenStackSDK Contribution                                   | 2024.07 \~ 2024.11 |
+| **Kakao Enterprise**                | Cloud Curriculum Development        | Course Developer   | Cloud Edu. Scenario Dev (Cloud Basic & K8s), Assistant      | 2023.09 \~ 2024.01 |
+| **CLOUD-LAB**                       | University Club                     | Club Leader        | Cloud Infra Edu & Internal VM Service Planning              | 2023.09 \~ 2024.02 |
+
 
 <br/>
  
 ### 🍀 Scholarship
-| Scholarship | When | Where |
-| ------------ | ------------- | ------------- |
-| | | |
+| Scholarship           | When      | Where               |
+| --------------------- | --------- | ------------------- |
+| Ranked 1st in Department | Fall 2023 | Sahmyook University |
+
 
 <br/>
 
 ### 🏆 Prizes
-| Contest | Prize | When | Where |
-| ------------ | ------------- | ------------- | ------------- |
-| | | | |
+| Contest                                            | Prize                          | When    | Where                               |
+| -------------------------------------------------- | ------------------------------ | ------- | ----------------------------------- |
+| Cloud Infrastructure Project Competition | 🥇 Grand Prize <br/> (Chairman’s Award) | 2025.02 | KOSA (Korea Software Industry Association) |
+
 
 <br/>
 
