@@ -102,7 +102,13 @@
 <br/>
 
 ### 🏆 Certifications
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/JunwooPark-9062/BEA2F4AEA3C5EECE?sharingId=99B1FD91994907FF"><img width=200 src="./assets/azure_fundamental_badge.png"/></a>
 
+<!--
+<p align="center">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/JunwooPark-9062/BEA2F4AEA3C5EECE?sharingId=99B1FD91994907FF"><img width=200 src="./assets/azure_fundamental_badge.png"/></a>
+</p>
+-->
 
 <br/>
 
@@ -112,7 +118,13 @@
 | ------------ | ------------- | 
 | 🖍️ OpenstackSDK | [Provides Designate System Service Status](https://review.opendev.org/c/openstack/openstacksdk/+/927854) | 
 
+<!-- [![OpenStack Contributor](./assets/openstack_contributor_badge.png)](https://www.openstack.org/software/openstack-epoxy) -->
 
+<br/>
+
+<a href="https://www.openstack.org/software/openstack-epoxy">
+  <img src="./assets/openstack_contributor_badge.png" alt="OpenStack Contributor" width="400"/>
+</a>
 
 <!--
 **NOOJU/NOOJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
